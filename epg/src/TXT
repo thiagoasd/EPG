@@ -1,0 +1,2976 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+
+    <title>
+    	
+			Programação Rede TV
+ | meuguia.TV
+		
+    </title>
+    
+    <script type="text/javascript" src="/javascripts/meuguia.js"></script>
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+	<link href="/stylesheets/meuguia.css?1363567646" media="screen" rel="stylesheet" type="text/css" />
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, user-scalable=no" />
+
+    <meta name="author" content="Alexandre Saddi and Fernando Pinho | http://www.alexandresaddi.com" />
+    <meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+    	
+    <meta name="keywords" content="meuguia,meu,guia,tv,grade,guide,tvguide,filmes,esportes,s&eacute;ries,rede globo,programa&ccedil;&atilde;o,iphone webapp,canal" />
+    <meta name="description" content="Guia de programa&ccedil;&atilde;o da televis&atilde;o no Brasil, incluindo canais de TV por assinatura. Otimizado para iPhone e iPod Touch." />
+
+  </head>
+  
+  <body>
+
+
+
+
+<style>
+
+.prog_comp_data {float: left; height: 23px; margin: 7px 8px 0 -2px; color:#a5a36c;}
+.prog_comp_tit {color:#666;}
+
+</style>
+
+
+<script type="text/javascript">
+	if (document.domain != "iphone.meuguia.tv") {
+		document.write ('<h1><a class="logo" href="/"><span>meuguia.TV</span></a></h1>');
+		document.write ('<a class="backbutton" href="javascript:history.back();">voltar</a>');
+	}
+</script>
+
+<!-- ########## INICIO ADSENSE ########## -->
+<script type="text/javascript">
+
+	width = window.innerWidth || document.documentElement.clientWidth;
+	google_ad_client = "ca-pub-9280066352465948";
+
+	if (isMobile.anyMobile()) {
+
+		// Mobile
+		google_ad_slot = "8135275524";
+		google_ad_width = 320;
+		google_ad_height = 50;
+
+	} else {
+
+		if (width >= 730) {
+			// Leaderboard
+			google_ad_slot = "5809421129";
+			google_ad_width = 728;
+			google_ad_height = 90;
+		} else if ((width > 480) && (width < 730)) {
+		    // Banner
+			google_ad_slot = "6658542322";
+			google_ad_width = 468;
+			google_ad_height = 60;
+		} else if (width <= 480) {
+			// Mobile
+			google_ad_slot = "8135275524";
+			google_ad_width = 320;
+			google_ad_height = 50;
+		}
+
+	}
+
+	document.write ('<div style="width:'+google_ad_width+'px; height:'+google_ad_height+'px; margin: 10px auto 0 auto;">');
+
+</script>
+
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<!-- ########## FIM ADSENSE ########## -->
+
+<h2>Programa&ccedil;&atilde;o completa</h2>
+
+<ul>
+
+	<li style="background: url(/images/logos/rtv.gif?1361990829) no-repeat 8px center;">
+	    <a>
+	    	<div style="font-size: 18px; margin-top: 6px;">Rede TV
+</div>
+	    </a>
+	</li>
+
+	
+    
+
+		
+		
+		<li class="data_prog">Sexta, 05/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h55</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/296706-ta-gravado" title="Tá Gravado"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>Tá Gravado</span><br /><span class='metadados'>Variedades/Comportamento</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/196835-operacao-de-risco" title="Operação de Risco"><div class='prog_comp_data'>23h10</div><span class='prog_comp_tit'>Operação de Risco</span><br /><span class='metadados'>Variedades/Reality Show</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Sábado, 06/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16555-leitura-dinamica" title="Leitura Dinâmica"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>Leitura Dinâmica</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/151327-programa-amaury-jr" title="Programa Amaury Jr."><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>Programa Amaury Jr.</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/191349-igreja-universal-do-reino-de-deus" title="Igreja Universal do Reino de Deus"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Igreja Universal do Reino ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/63198-ultrafarma" title="Ultrafarma"><div class='prog_comp_data'>05h55</div><span class='prog_comp_tit'>Ultrafarma</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/310560-camisaria-fascynios" title="Camisaria Fascynios"><div class='prog_comp_data'>07h55</div><span class='prog_comp_tit'>Camisaria Fascynios</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107550-proclamai" title="Proclamai"><div class='prog_comp_data'>08h25</div><span class='prog_comp_tit'>Proclamai</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28519-vitoria-em-cristo" title="Vitória em Cristo"><div class='prog_comp_data'>08h55</div><span class='prog_comp_tit'>Vitória em Cristo</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/314562-campeonato-paulista-serie-a2" title="Campeonato Paulista Série A2"><div class='prog_comp_data'>10h00</div><span class='prog_comp_tit'>Campeonato Paulista Série ...</span><br /><span class='metadados'>Esporte/Futebol</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/255382-assembleia-de-deus-do-bras" title="Assembleia de Deus do Brás"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Assembleia de Deus do Brás</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/136407-igreja-familia-debaixo-da-graca" title="Igreja Família Debaixo da Graça"><div class='prog_comp_data'>13h00</div><span class='prog_comp_tit'>Igreja Família Debaixo da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/219671-tv-bereana" title="TV Bereana"><div class='prog_comp_data'>13h30</div><span class='prog_comp_tit'>TV Bereana</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>13h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/287788-sabado-total" title="Sábado Total"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Sábado Total</span><br /><span class='metadados'>Variedades/Game Show</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>17h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/81845-polishop" title="Polishop"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Polishop</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/324065-banco-bomsucesso" title="Banco Bomsucesso"><div class='prog_comp_data'>18h45</div><span class='prog_comp_tit'>Banco Bomsucesso</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/48197-companhia-de-viagem" title="Companhia de Viagem"><div class='prog_comp_data'>19h00</div><span class='prog_comp_tit'>Companhia de Viagem</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/15935-amaury-jr-show" title="Amaury Jr. Show"><div class='prog_comp_data'>19h45</div><span class='prog_comp_tit'>Amaury Jr. Show</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h45</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/296706-ta-gravado" title="Tá Gravado"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>Tá Gravado</span><br /><span class='metadados'>Variedades/Comportamento</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/203503-mega-senha" title="Mega Senha"><div class='prog_comp_data'>23h00</div><span class='prog_comp_tit'>Mega Senha</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Domingo, 07/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319683-teste-de-fidelidade" title="Teste de Fidelidade"><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>Teste de Fidelidade</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/119325-igreja-bola-de-neve" title="Igreja Bola de Neve"><div class='prog_comp_data'>02h00</div><span class='prog_comp_tit'>Igreja Bola de Neve</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>02h30</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/139102-igreja-da-graca-nosso-lar" title="Igreja da Graça, Nosso Lar"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso Lar</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/63198-ultrafarma" title="Ultrafarma"><div class='prog_comp_data'>05h55</div><span class='prog_comp_tit'>Ultrafarma</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>07h55</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/314562-campeonato-paulista-serie-a2" title="Campeonato Paulista Série A2"><div class='prog_comp_data'>10h00</div><span class='prog_comp_tit'>Campeonato Paulista Série ...</span><br /><span class='metadados'>Esporte/Futebol</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/285072-deus-medico-de-todos-os-medicos" title="Deus Médico de Todos os Médicos"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Deus Médico de Todos os ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>13h00</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/261639-voz-da-verdade" title="Voz da Verdade"><div class='prog_comp_data'>14h30</div><span class='prog_comp_tit'>Voz da Verdade</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/324068-top-surf-brasil" title="Top Surf Brasil"><div class='prog_comp_data'>14h45</div><span class='prog_comp_tit'>Top Surf Brasil</span><br /><span class='metadados'>Esporte/Radical</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82371-a-hora-e-a-vez-da-pequena-empresa" title="A Hora e a Vez da Pequena Empresa"><div class='prog_comp_data'>15h15</div><span class='prog_comp_tit'>A Hora e a Vez da Pequena ...</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/111594-apeoesp" title="APEOESP"><div class='prog_comp_data'>15h35</div><span class='prog_comp_tit'>APEOESP</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>15h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/176973-transicao" title="Transição"><div class='prog_comp_data'>16h15</div><span class='prog_comp_tit'>Transição</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>16h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/301313-galinha-morta" title="Galinha Morta"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Galinha Morta</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/145713-pague-menos" title="Pague Menos"><div class='prog_comp_data'>17h15</div><span class='prog_comp_tit'>Pague Menos</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>17h45</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/102665-ritmo-brasil" title="Ritmo Brasil"><div class='prog_comp_data'>18h30</div><span class='prog_comp_tit'>Ritmo Brasil</span><br /><span class='metadados'>Variedades/Musical</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/189703-o-ultimo-passageiro" title="O Último Passageiro"><div class='prog_comp_data'>19h10</div><span class='prog_comp_tit'>O Último Passageiro</span><br /><span class='metadados'>Variedades/Game Show</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/323868-te-peguei" title="Te Peguei"><div class='prog_comp_data'>20h30</div><span class='prog_comp_tit'>Te Peguei</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319683-teste-de-fidelidade" title="Teste de Fidelidade"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Teste de Fidelidade</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/271745-dr-hollywood-brasil" title="Dr. Hollywood Brasil"><div class='prog_comp_data'>23h30</div><span class='prog_comp_tit'>Dr. Hollywood Brasil</span><br /><span class='metadados'>Séries/Reality Show</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Segunda, 08/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/188417-e-noticia" title="É Notícia"><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>É Notícia</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16556-bola-na-rede" title="Bola na Rede"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Bola na Rede</span><br /><span class='metadados'>Jornalismo/Esportivo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>02h30</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/139102-igreja-da-graca-nosso-lar" title="Igreja da Graça, Nosso Lar"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso Lar</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h10</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h45</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16546-superpop" title="SuperPop"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>SuperPop</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Terça, 09/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16555-leitura-dinamica" title="Leitura Dinâmica"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>Leitura Dinâmica</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/188417-e-noticia" title="É Notícia"><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>É Notícia</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/64018-vinho-a-mesa" title="Vinho à Mesa"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Vinho à Mesa</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>02h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h55</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/307966-feira-do-riso" title="Feira do Riso"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>Feira do Riso</span><br /><span class='metadados'>Variedades/Humor</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/307967-luciana-by-night" title="Luciana by Night"><div class='prog_comp_data'>23h00</div><span class='prog_comp_tit'>Luciana by Night</span><br /><span class='metadados'>Variedades/Talk Show</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Quarta, 10/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16555-leitura-dinamica" title="Leitura Dinâmica"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>Leitura Dinâmica</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/151327-programa-amaury-jr" title="Programa Amaury Jr."><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>Programa Amaury Jr.</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h55</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16546-superpop" title="SuperPop"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>SuperPop</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Quinta, 11/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16555-leitura-dinamica" title="Leitura Dinâmica"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>Leitura Dinâmica</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/151327-programa-amaury-jr" title="Programa Amaury Jr."><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>Programa Amaury Jr.</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/176973-transicao" title="Transição"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Transição</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>02h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/255383-propaganda-partidaria" title="Propaganda Partidária"><div class='prog_comp_data'>20h30</div><span class='prog_comp_tit'>Propaganda Partidária</span><br /><span class='metadados'>Variedades/Política</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>20h35</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h55</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/143815-good-news" title="Good News"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>Good News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16464-sob-medida" title="Sob Medida"><div class='prog_comp_data'>23h00</div><span class='prog_comp_tit'>Sob Medida</span><br /><span class='metadados'>Esporte/Diversos</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Sexta, 12/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16555-leitura-dinamica" title="Leitura Dinâmica"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>Leitura Dinâmica</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/151327-programa-amaury-jr" title="Programa Amaury Jr."><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>Programa Amaury Jr.</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h55</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/296706-ta-gravado" title="Tá Gravado"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>Tá Gravado</span><br /><span class='metadados'>Variedades/Comportamento</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/196835-operacao-de-risco" title="Operação de Risco"><div class='prog_comp_data'>23h10</div><span class='prog_comp_tit'>Operação de Risco</span><br /><span class='metadados'>Variedades/Reality Show</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Sábado, 13/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16555-leitura-dinamica" title="Leitura Dinâmica"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>Leitura Dinâmica</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/151327-programa-amaury-jr" title="Programa Amaury Jr."><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>Programa Amaury Jr.</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/63198-ultrafarma" title="Ultrafarma"><div class='prog_comp_data'>05h55</div><span class='prog_comp_tit'>Ultrafarma</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/310560-camisaria-fascynios" title="Camisaria Fascynios"><div class='prog_comp_data'>07h55</div><span class='prog_comp_tit'>Camisaria Fascynios</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/103160-helifly" title="Helifly"><div class='prog_comp_data'>08h25</div><span class='prog_comp_tit'>Helifly</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28519-vitoria-em-cristo" title="Vitória em Cristo"><div class='prog_comp_data'>08h55</div><span class='prog_comp_tit'>Vitória em Cristo</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/321514-rio-branco-x-comercial" title="Rio Branco x Comercial"><div class='prog_comp_data'>10h00</div><span class='prog_comp_tit'>Rio Branco x Comercial</span><br /><span class='metadados'>Esporte/Futebol</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/255382-assembleia-de-deus-do-bras" title="Assembleia de Deus do Brás"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Assembleia de Deus do Brás</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/136407-igreja-familia-debaixo-da-graca" title="Igreja Família Debaixo da Graça"><div class='prog_comp_data'>13h00</div><span class='prog_comp_tit'>Igreja Família Debaixo da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/219671-tv-bereana" title="TV Bereana"><div class='prog_comp_data'>13h30</div><span class='prog_comp_tit'>TV Bereana</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>13h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/287788-sabado-total" title="Sábado Total"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Sábado Total</span><br /><span class='metadados'>Variedades/Game Show</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>17h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/81845-polishop" title="Polishop"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Polishop</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>18h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/48197-companhia-de-viagem" title="Companhia de Viagem"><div class='prog_comp_data'>19h00</div><span class='prog_comp_tit'>Companhia de Viagem</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/15935-amaury-jr-show" title="Amaury Jr. Show"><div class='prog_comp_data'>19h45</div><span class='prog_comp_tit'>Amaury Jr. Show</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h45</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/307966-feira-do-riso" title="Feira do Riso"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>Feira do Riso</span><br /><span class='metadados'>Variedades/Humor</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/203503-mega-senha" title="Mega Senha"><div class='prog_comp_data'>23h00</div><span class='prog_comp_tit'>Mega Senha</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Domingo, 14/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319683-teste-de-fidelidade" title="Teste de Fidelidade"><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>Teste de Fidelidade</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/119325-igreja-bola-de-neve" title="Igreja Bola de Neve"><div class='prog_comp_data'>02h00</div><span class='prog_comp_tit'>Igreja Bola de Neve</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>02h30</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/139102-igreja-da-graca-nosso-lar" title="Igreja da Graça, Nosso Lar"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso Lar</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/63198-ultrafarma" title="Ultrafarma"><div class='prog_comp_data'>05h55</div><span class='prog_comp_tit'>Ultrafarma</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>07h55</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/321516-sao-jose-x-ferroviaria" title="São José x Ferroviária"><div class='prog_comp_data'>10h00</div><span class='prog_comp_tit'>São José x Ferroviária</span><br /><span class='metadados'>Esporte/Futebol</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/285072-deus-medico-de-todos-os-medicos" title="Deus Médico de Todos os Médicos"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Deus Médico de Todos os ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>13h00</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/261639-voz-da-verdade" title="Voz da Verdade"><div class='prog_comp_data'>14h30</div><span class='prog_comp_tit'>Voz da Verdade</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>14h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82371-a-hora-e-a-vez-da-pequena-empresa" title="A Hora e a Vez da Pequena Empresa"><div class='prog_comp_data'>15h15</div><span class='prog_comp_tit'>A Hora e a Vez da Pequena ...</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/111594-apeoesp" title="APEOESP"><div class='prog_comp_data'>15h35</div><span class='prog_comp_tit'>APEOESP</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>15h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/176973-transicao" title="Transição"><div class='prog_comp_data'>16h15</div><span class='prog_comp_tit'>Transição</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>16h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/301313-galinha-morta" title="Galinha Morta"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Galinha Morta</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/145713-pague-menos" title="Pague Menos"><div class='prog_comp_data'>17h15</div><span class='prog_comp_tit'>Pague Menos</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>17h45</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/102665-ritmo-brasil" title="Ritmo Brasil"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Ritmo Brasil</span><br /><span class='metadados'>Variedades/Musical</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/277537-star-trek" title="Star Trek"><div class='prog_comp_data'>18h30</div><span class='prog_comp_tit'>Star Trek</span><br /><span class='metadados'>Séries/Ficção</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/189703-o-ultimo-passageiro" title="O Último Passageiro"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>O Último Passageiro</span><br /><span class='metadados'>Variedades/Game Show</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/196835-operacao-de-risco" title="Operação de Risco"><div class='prog_comp_data'>20h45</div><span class='prog_comp_tit'>Operação de Risco</span><br /><span class='metadados'>Variedades/Reality Show</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/296706-ta-gravado" title="Tá Gravado"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Tá Gravado</span><br /><span class='metadados'>Variedades/Comportamento</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/306780-wwe-smackdown" title="WWE SmackDown"><div class='prog_comp_data'>22h00</div><span class='prog_comp_tit'>WWE SmackDown</span><br /><span class='metadados'>Esporte/Luta</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/271745-dr-hollywood-brasil" title="Dr. Hollywood Brasil"><div class='prog_comp_data'>23h00</div><span class='prog_comp_tit'>Dr. Hollywood Brasil</span><br /><span class='metadados'>Séries/Reality Show</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Segunda, 15/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/188417-e-noticia" title="É Notícia"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>É Notícia</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16556-bola-na-rede" title="Bola na Rede"><div class='prog_comp_data'>01h00</div><span class='prog_comp_tit'>Bola na Rede</span><br /><span class='metadados'>Jornalismo/Esportivo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/71762-parceria" title="Parceria"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Parceria</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/139102-igreja-da-graca-nosso-lar" title="Igreja da Graça, Nosso Lar"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso Lar</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h10</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h45</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16546-superpop" title="SuperPop"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>SuperPop</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Terça, 16/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16555-leitura-dinamica" title="Leitura Dinâmica"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>Leitura Dinâmica</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/188417-e-noticia" title="É Notícia"><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>É Notícia</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/64018-vinho-a-mesa" title="Vinho à Mesa"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Vinho à Mesa</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>02h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h55</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/307966-feira-do-riso" title="Feira do Riso"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>Feira do Riso</span><br /><span class='metadados'>Variedades/Humor</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/307967-luciana-by-night" title="Luciana by Night"><div class='prog_comp_data'>23h00</div><span class='prog_comp_tit'>Luciana by Night</span><br /><span class='metadados'>Variedades/Talk Show</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Quarta, 17/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16555-leitura-dinamica" title="Leitura Dinâmica"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>Leitura Dinâmica</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/151327-programa-amaury-jr" title="Programa Amaury Jr."><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>Programa Amaury Jr.</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h55</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16546-superpop" title="SuperPop"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>SuperPop</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+		
+		<li class="data_prog">Quinta, 18/04</li>
+	    
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16555-leitura-dinamica" title="Leitura Dinâmica"><div class='prog_comp_data'>00h00</div><span class='prog_comp_tit'>Leitura Dinâmica</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/151327-programa-amaury-jr" title="Programa Amaury Jr."><div class='prog_comp_data'>00h30</div><span class='prog_comp_tit'>Programa Amaury Jr.</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/176973-transicao" title="Transição"><div class='prog_comp_data'>01h30</div><span class='prog_comp_tit'>Transição</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>02h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>03h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>05h00</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/305154-se-liga-brasil" title="Se Liga Brasil"><div class='prog_comp_data'>08h30</div><span class='prog_comp_tit'>Se Liga Brasil</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/107116-tv-kids" title="TV Kids"><div class='prog_comp_data'>10h30</div><span class='prog_comp_tit'>TV Kids</span><br /><span class='metadados'>Infantil/Animação</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>12h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/82426-igreja-universal" title="Igreja Universal"><div class='prog_comp_data'>14h00</div><span class='prog_comp_tit'>Igreja Universal</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/105520-a-tarde-e-sua" title="A Tarde é Sua"><div class='prog_comp_data'>15h00</div><span class='prog_comp_tit'>A Tarde é Sua</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/289662-igreja-da-graca-nosso-programa" title="Igreja da Graça, Nosso Programa"><div class='prog_comp_data'>17h00</div><span class='prog_comp_tit'>Igreja da Graça, Nosso ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/319923-video-mania" title="Video Mania"><div class='prog_comp_data'>18h00</div><span class='prog_comp_tit'>Video Mania</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/53733-betty-a-feia" title="Betty, A Feia"><div class='prog_comp_data'>18h15</div><span class='prog_comp_tit'>Betty, A Feia</span><br /><span class='metadados'>Variedades/Novela</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>19h30</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/255383-propaganda-partidaria" title="Propaganda Partidária"><div class='prog_comp_data'>20h30</div><span class='prog_comp_tit'>Propaganda Partidária</span><br /><span class='metadados'>Variedades/Política</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/28505-tv-fama" title="TV Fama"><div class='prog_comp_data'>20h35</div><span class='prog_comp_tit'>TV Fama</span><br /><span class='metadados'>Variedades/Diversos</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/94292-redetv-news" title="RedeTV! News"><div class='prog_comp_data'>20h55</div><span class='prog_comp_tit'>RedeTV! News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/208365-igreja-internacional-da-graca-de-deus" title="Igreja Internacional da Graça de Deus"><div class='prog_comp_data'>21h30</div><span class='prog_comp_tit'>Igreja Internacional da ...</span><br /><span class='metadados'>Variedades/Religião</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/143815-good-news" title="Good News"><div class='prog_comp_data'>22h30</div><span class='prog_comp_tit'>Good News</span><br /><span class='metadados'>Jornalismo/Informativo</span></a>
+		</li>
+	
+    
+
+		
+
+		
+
+		<li class="home">
+			<a href="/programacao/programa/16464-sob-medida" title="Sob Medida"><div class='prog_comp_data'>23h00</div><span class='prog_comp_tit'>Sob Medida</span><br /><span class='metadados'>Esporte/Diversos</span></a>
+		</li>
+	
+    
+
+</ul>
+
+
+	<script type="text/javascript">
+
+		var is_uiwebview = /(iPhone|iPod|iPad).*AppleWebKit(?!.*Safari)/i.test(navigator.userAgent);
+
+		if (is_uiwebview) {
+			if (document.domain != "iphone.meuguia.tv") {
+				//iphone app, older version
+				app_version = "1.0.1";
+			} else {
+				//iphone app, new version
+				app_version = "2.5";
+			}
+		} else {
+			//not iphone app
+			app_version = "2.1";
+		}
+
+	</script>
+
+
+	<span class="rodape">
+		meuguia.TV <script type="text/javascript">document.write(app_version);</script> - otimizado para iPhone e iPod Touch<br />desenvolvido por Alexandre Saddi e Fernando Pinho<br /><a href="/privacidade.html" style="color:#030;">Política de Privacidade</a><br /><br />
+
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1&appId=324630984267271";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+		<div style="vertical-align:top" class="fb-like" data-href="http://facebook.com/meuguia.tv" data-send="false" data-layout="button_count" data-width="130" data-show-faces="false"></div>
+		
+		<a href="https://twitter.com/meuguiatv" class="twitter-follow-button" data-show-count="false" data-lang="pt">Siga @meuguiatv</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		
+		
+		<br /><br />
+		
+		<strong>Parceiro:</strong><br />
+		
+		<script type="text/javascript">
+			if (document.domain != "iphone.meuguia.tv") {
+				document.write ('<a href="http://www.revistaeletronica.com.br"><img src="/images/logo_re.png" alt="Revista Eletr&ocirc;nica - parceiro fornecedor de conte&uacute;do" width="132" height="24" /></a>');
+			} else {
+				document.write ('<img src="/images/logo_re.png" alt="Revista Eletr&ocirc;nica - parceiro fornecedor de conte&uacute;do" width="132" height="24" />');
+			}
+		</script>		
+		
+		
+		
+	</span>
+	
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-305350-4");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	</script>
+	
+  </body>
+</html>
